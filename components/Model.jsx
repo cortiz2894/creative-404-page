@@ -57,7 +57,7 @@ export default function Model(props) {
         Page Not found
       </Text>
       <Text fontSize={0.1} position={[0, -0.8, -0.5]}>
-        Sorry we couldn't find the page you looking for
+        Sorry we couldn&apos;t find the page you looking for
       </Text>
       <group ref={meshGroup}>
         <mesh
